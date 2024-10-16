@@ -1,9 +1,13 @@
+[<< BACK ](README.md)
 
-## Methods and Frameworks
+# Methods, Frameworks and Technical Content
+
+- [Devops](devops.md)
+- [Eat the frog Method ](eat-frog-method.md)
 
 ---
 
-## INTERVIEWS
+# INTERVIEWS
 
 ### Initial Interview
 

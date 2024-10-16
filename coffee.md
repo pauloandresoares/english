@@ -1,3 +1,5 @@
+[<< BACK ](README.md)
+
 # COFFEE
 
 ## TABLE OF CONTENTS
@@ -50,8 +52,6 @@ Coffee production begins on **coffee farms** where the coffee plant (*Coffea ara
 
 ### 7. **Roasting and Selling**
    - Once the beans are exported, they are **roasted** to develop their flavor. Roasting can be done on a small scale or in large factories, depending on the demand. After roasting, coffee is packaged and sold to consumers.
-
-**[Suggested Image: Coffee beans being roasted in a commercial roaster]**
 
 ---
 
@@ -111,24 +111,6 @@ Coffee production begins on **coffee farms** where the coffee plant (*Coffea ara
 
 ---
 
-### Coffee Production Visual Guide (Image Suggestions)
-
-1. **[Image: Coffee Plantations]**  
-   - Description: An image showing rows of coffee plants on a farm in a tropical region.
-   
-2. **[Image: Harvesting Coffee Cherries]**  
-   - Description: Workers handpicking ripe coffee cherries during the harvest season.
-
-3. **[Image: Coffee Processing]**  
-   - Description: A coffee farm with cherries being dried under the sun or being washed.
-
-4. **[Image: Coffee Exportation]**  
-   - Description: Coffee beans being packaged in large sacks and loaded onto ships for export.
-
-5. **[Image: Roasting Coffee Beans]**  
-   - Description: A commercial coffee roaster roasting green coffee beans.
-
----
 
 
 ## 2 - INTRODUCTION TO COFFEE AND COFFEE EQUIPMENT
@@ -360,7 +342,6 @@ If you're ready to experiment with coffee grinds but not quite prepared to inves
 - "He decided to **experiment** with different grind sizes to find his perfect cup."
 
 
-
 ## Conclusion and Final Notes
 
 Coffee is much more than a drink—it's a global journey that begins on farms and ends in your cup, with countless hands involved in planting, harvesting, processing, and roasting. Whether you enjoy a simple black coffee or a complex espresso, understanding the steps of coffee production and how to grind your beans properly enhances your appreciation for the beverage. 
@@ -378,4 +359,3 @@ Next time you brew a cup, take a moment to think about the effort that goes into
 ## References
 
 - Kauai Coffee Company. **Find Your Grind: How to Grind Coffee Beans Like a Pro**. [Kauai Coffee Blog](https://kauaicoffee.com/blogs/news/find-your-grind-how-to-grind-coffee-beans-like-a-pro). Accessed September 2024.
-
