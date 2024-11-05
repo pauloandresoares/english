@@ -4,7 +4,7 @@
 
 [1 - Aliens](aliens.md)<br/>
 [2 - Coffee](coffee.md)<br/>
-[3 - Food](food.md)<br/>
+[3 - Food](foods.md)<br/>
 [4 - Games](games.md)<br/>
 [5 - Professional](professional.md)
 
