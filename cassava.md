@@ -1,7 +1,7 @@
 <style>
 .caption {
     font-style: italic;
-    font-size: 14px;
+    font-size: 12px;
     color: #555;
     text-align: left;
     margin-bottom: 20px;
@@ -17,8 +17,10 @@ Cassava is a versatile and essential root in Brazilian cuisine, used in typical 
 
 <img width="300px" src="images/boiled_cassava_dried_meat_butter.jpg"/>
 <div class="caption">Boiled cassava with meat</div>
+
 <img width="300px" src="images/boiled_cassava_dried_meat_butter2.jpg"/>
 <div class="caption">Boiled cassava with dried meat and butter</div>
+
 <img width="300px" src="images/liquid_butter.jpg"/>
 <div class="caption">Manteiga de garrafa - liquid butter</div>
 
@@ -28,10 +30,13 @@ Another Northeast highlight is *tapioca*, made from cassava ***starch*** and ser
 
 <img width="300px" src="images/tapioca_coconut_condensed_milk.jpg"/>
 <div class="caption">Tapioca with coconut and condensed milk</div>
+
 <img width="300px" src="images/tapioca_1.webp"/>
 <div class="caption">Tapioca 1</div>
+
 <img width="300px" src="images/tapioca_2.jpg"/>
 <div class="caption">Tapioca 2</div>
+
 <img width="300px" src="images/tapioca_3.webp"/>
 <div class="caption">Tapioca 3</div>
 
@@ -74,6 +79,7 @@ In Brazil, they invented the idea of ​​using the previous tapioca dough and 
 
 <img width="300px" src="images/dadinhos-de-tapioca-qhvlhnv4wi0g.webp"/>
 <div class="caption">Tapioca cubes</div>
+
 <img width="300px" src="images/Como-Fritar-Mandioca-Cozida.webp"/>
 <div class="caption">Fried cassava</div>
 
