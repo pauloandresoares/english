@@ -1,13 +1,3 @@
-<style>
-.caption {
-    font-style: italic;
-    font-size: 12px;
-    color: #555;
-    text-align: left;
-    margin-bottom: 20px;
-}
-</style>
-
 [<< BACK ](foods.md)
 # Typical Brazilian Dishes with Cassava
 
