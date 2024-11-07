@@ -108,6 +108,9 @@ Other traditional cassava dishes include *vaca atolada*, a stew of ribs with cas
 <img width="300px" src="images/bk-8795-beiju-crocante-receita.webp"/></br>
 <div class="caption">Beiju</div>
 
+
+
+
 Another important cassava product is **polvilho**, which is the starch extracted from the root. Sweet *polvilho* is pure dry ***starch***, while ***sour*** *polvilho* is fermented before drying, which gives it a slightly acidic flavor. It is essential in recipes like *pão de queijo* (cheese bread), which uses sweet or sour polvilho to achieve a crispy outside and soft inside, as well as polvilho ***biscuits*** and the traditional *biscoito de vento*, common in various regions of Brazil.
 
 <img width="300px" src="images/pao-de-queijo-facil-e-delicioso-3-.webp"/>
@@ -120,7 +123,11 @@ Another important cassava product is **polvilho**, which is the starch extracted
 <div class="caption">Polvilho biscuits</div>
 
 
-In nutritional terms, cassava is a source of complex carbohydrates, similar to potatoes and rice, but has a lower glycemic index, which provides a slower and more sustained release of energy. It is rich in fiber, which helps with satiety and digestion. Compared to other carbohydrates, cassava is naturally gluten-free, making it a great option for people with ***dietary*** restrictions. It also contains small amounts of B vitamins and minerals like calcium and potassium, which are essential for bone and muscle health. This makes cassava an energetic and versatile food, suitable for various diets and lifestyles.
+
+
+
+
+<p>In nutritional terms, cassava is a source of complex carbohydrates, similar to potatoes and rice, but has a lower glycemic index, which provides a slower and more sustained release of energy. It is rich in fiber, which helps with satiety and digestion. Compared to other carbohydrates, cassava is naturally gluten-free, making it a great option for people with ***dietary*** restrictions. It also contains small amounts of B vitamins and minerals like calcium and potassium, which are essential for bone and muscle health. This makes cassava an energetic and versatile food, suitable for various diets and lifestyles.</p>
 
 
 ---
